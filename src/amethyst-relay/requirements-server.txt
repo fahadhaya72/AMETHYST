@@ -1,0 +1,5 @@
+# placeholder dependencies for amethyst relay
+fastapi
+uvicorn
+pydantic
+requests

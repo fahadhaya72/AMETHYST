@@ -1,0 +1,4 @@
+# placeholder dependencies for amethyst client
+PyQt6
+requests
+numpy

@@ -1,0 +1,21 @@
+# Server Dependencies
+# Install with: pip install -r requirements_server.txt
+
+# Web Framework
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# AI and ML
+google-generativeai>=0.3.0  # Gemini API
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Async and Concurrency
+asyncio>=3.4.3
+
+# Optional: Additional features
+# sqlalchemy>=2.0.0  # Database ORM (for future logging)
+# redis>=5.0.0  # Caching and session management
